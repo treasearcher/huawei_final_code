@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cam_car_graph.iml" filepath="$PROJECT_DIR$/.idea/cam_car_graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SingleEdgeSystemCPU/cam_car_single/.idea/cam_car_single.iml" filepath="$PROJECT_DIR$/../../SingleEdgeSystemCPU/cam_car_single/.idea/cam_car_single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../net_edge1/.idea/net_edge1.iml" filepath="$PROJECT_DIR$/../net_edge1/.idea/net_edge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../net_edge2/.idea/net_edge2.iml" filepath="$PROJECT_DIR$/../net_edge2/.idea/net_edge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SingleEdgeSystemCPU/net_single/.idea/net_single.iml" filepath="$PROJECT_DIR$/../../SingleEdgeSystemCPU/net_single/.idea/net_single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SingleEdgeSystem/xv_cam_car_single/.idea/xv_cam_car_single.iml" filepath="$PROJECT_DIR$/../SingleEdgeSystem/xv_cam_car_single/.idea/xv_cam_car_single.iml" />
+    </modules>
+  </component>
+</project>

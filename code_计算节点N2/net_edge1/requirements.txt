@@ -1,0 +1,11 @@
+numpy==1.20.1
+torch==1.8.0
+tensorboardX==2.0
+matplotlib==3.3.4
+tqdm==4.43.0
+easydict==1.9
+Pillow==8.1.2
+scikit-image
+opencv_python
+pycocotools
+kubernetes
